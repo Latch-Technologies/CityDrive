@@ -20,9 +20,7 @@ import latchtech.co.ke.citydrive.fragments.NavigationDrawerFragment;
 public class MainActivity extends ActionBarActivity
         implements NavigationDrawerFragment.NavigationDrawerCallbacks{
 
-    /**
-     * Fragment managing the behaviors, interactions and presentation of the navigation drawer.
-     */
+  
     private NavigationDrawerFragment mNavigationDrawerFragment;
 
     /**
